@@ -25,6 +25,7 @@ CoinDeno is your personal crypto companion. Here’s what it does:
 - 🌍 View prices in your local currency for easy conversions
 - 💡 Clean, responsive UI optimized for both iOS and Android
 
+
 ## Links
 
 Website: https://coindeno.netlify.app/
